@@ -1,6 +1,6 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
-# Lab | Resolving Git Conflicts
+# Lab | Resolving Git Conflicts By Gonzalo Navarro 
 
 LAB | Resolving-git-conflicts : Testing branch and getting started with git. 
 
