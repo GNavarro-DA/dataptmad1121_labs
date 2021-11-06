@@ -2,6 +2,8 @@
 
 # Lab | Resolving Git Conflicts
 
+LAB | Resolving-git-conflicts : Testing branch and getting started with git. 
+
 ## Introduction
 
 Resolving Git conflicts and merging branches is an import skill every software/data engineer must possess because code conflicts occur on daily basis in collaborative projects. This lab will help you learn the complete process of resolving and merging conflicts and become prepared to solve Git conflicts next time you encounter them.
