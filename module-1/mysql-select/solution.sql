@@ -38,3 +38,5 @@ LEFT JOIN dbo.titles title ON ta.title_id = title.title_id
 LEFT JOIN dbo.sales sales ON title.title_id = sales.title_id
 GROUP BY authors.au_id, authors.au_lname, authors.au_fname
 ORDER BY 'TOTAL' DESC
+
+-- LAB FINISHED
