@@ -50,6 +50,7 @@ FROM dbo.#step2 step2
 GROUP BY step2.[Author ID]
 ORDER BY [Total Profit] DESC
 
+-- Added this challenge that I forgot in the previous commit
 --CHALLENGE 3
 SELECT step3.[Author ID], step3.[Total Profit]
 INTO dbo.most_profiting_authors
